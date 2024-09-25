@@ -1,0 +1,51 @@
+{
+  "nom": "Dupont",
+  "prenom": "Marie",
+  "classe": "Seconde A",
+  "annee_scolaire": "2023-2024",
+  "bulletin": {
+    "matieres": [
+      {
+        "nom": "Français",
+        "note": 14.5,
+        "appreciation": "Élève sérieuse, des progrès notables en rédaction. Poursuivre les efforts dans l'analyse des textes."
+      },
+      {
+        "nom": "Mathématiques",
+        "note": 12.0,
+        "appreciation": "Des résultats corrects mais une attention accrue en cours serait bénéfique pour améliorer la rigueur."
+      },
+      {
+        "nom": "Histoire-Géographie",
+        "note": 13.0,
+        "appreciation": "Participation active, de bonnes connaissances générales. Quelques imprécisions dans les dates historiques."
+      },
+      {
+        "nom": "Anglais",
+        "note": 15.0,
+        "appreciation": "Très bon niveau. L'élève s'exprime avec fluidité et démontre une excellente compréhension des textes."
+      },
+      {
+        "nom": "Sciences Physiques",
+        "note": 11.5,
+        "appreciation": "Résultats un peu irréguliers. Marie doit approfondir ses révisions pour mieux maîtriser les concepts vus en classe."
+      },
+      {
+        "nom": "SVT",
+        "note": 13.5,
+        "appreciation": "Bon travail dans l'ensemble. Quelques lacunes dans l'application des méthodologies expérimentales."
+      },
+      {
+        "nom": "EPS",
+        "note": 16.0,
+        "appreciation": "Très bonne participation. L'élève est motivée et dynamique, elle montre un bel esprit d'équipe."
+      },
+      {
+        "nom": "Arts Plastiques",
+        "note": 14.0,
+        "appreciation": "Travail créatif et soigné. Poursuivre dans cette voie, mais Marie pourrait être plus audacieuse dans ses projets."
+      }
+    ],
+    "commentaire_general": "Marie est une élève sérieuse et impliquée. Elle a montré des progrès constants tout au long du trimestre. En poursuivant ses efforts, elle pourra encore améliorer ses résultats, notamment en sciences."
+  }
+}
