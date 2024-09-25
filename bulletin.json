@@ -1,7 +1,7 @@
 {
   "nom": "Dupont",
   "prenom": "Marie",
-  "classe": "Seconde A",
+  "classe": "BTS - MUC",
   "annee_scolaire": "2023-2024",
   "bulletin": {
     "matieres": [
@@ -16,7 +16,7 @@
         "appreciation": "Des résultats corrects mais une attention accrue en cours serait bénéfique pour améliorer la rigueur."
       },
       {
-        "nom": "Histoire-Géographie",
+        "nom": "Management des Unités Commerciales",
         "note": 13.0,
         "appreciation": "Participation active, de bonnes connaissances générales. Quelques imprécisions dans les dates historiques."
       },
@@ -26,22 +26,22 @@
         "appreciation": "Très bon niveau. L'élève s'exprime avec fluidité et démontre une excellente compréhension des textes."
       },
       {
-        "nom": "Sciences Physiques",
+        "nom": "Marketing",
         "note": 11.5,
         "appreciation": "Résultats un peu irréguliers. Marie doit approfondir ses révisions pour mieux maîtriser les concepts vus en classe."
       },
       {
-        "nom": "SVT",
+        "nom": "Sciences de Gestion",
         "note": 13.5,
         "appreciation": "Bon travail dans l'ensemble. Quelques lacunes dans l'application des méthodologies expérimentales."
       },
       {
-        "nom": "EPS",
+        "nom": "Numérique",
         "note": 16.0,
-        "appreciation": "Très bonne participation. L'élève est motivée et dynamique, elle montre un bel esprit d'équipe."
+        "appreciation": "Très bonne participation. L'élève est motivée et dynamique, elle est moteur de la classe."
       },
       {
-        "nom": "Arts Plastiques",
+        "nom": "Allemand LV2",
         "note": 14.0,
         "appreciation": "Travail créatif et soigné. Poursuivre dans cette voie, mais Marie pourrait être plus audacieuse dans ses projets."
       }
