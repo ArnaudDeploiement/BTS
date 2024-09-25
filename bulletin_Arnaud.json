@@ -1,0 +1,53 @@
+{
+  "nom": "Guiovanna",
+  "prenom": "Arnaud",
+  "classe": "Seconde B",
+  "annee_scolaire": "2023-2024",
+  "absences": 5,
+  "retards": 3,
+  "bulletin": {
+    "matieres": [
+      {
+        "nom": "Français",
+        "note": 10.5,
+        "appreciation": "Résultats corrects mais manque d'engagement et de participation. L'élève pourrait progresser avec plus d'investissement personnel."
+      },
+      {
+        "nom": "Mathématiques",
+        "note": 9.0,
+        "appreciation": "Arnaud rencontre des difficultés dans cette matière. Il doit améliorer sa concentration en classe et revoir régulièrement les notions de base."
+      },
+      {
+        "nom": "Histoire-Géographie",
+        "note": 11.0,
+        "appreciation": "Connaissances générales satisfaisantes mais manque de précision dans les réponses. Un travail plus régulier serait bénéfique."
+      },
+      {
+        "nom": "Anglais",
+        "note": 12.0,
+        "appreciation": "Niveau correct à l'écrit, mais Arnaud devrait davantage s'impliquer à l'oral pour améliorer son aisance dans la langue."
+      },
+      {
+        "nom": "Sciences Physiques",
+        "note": 9.5,
+        "appreciation": "Résultats en dessous de la moyenne. L'élève manque de rigueur dans ses expérimentations et doit revoir ses méthodes de travail."
+      },
+      {
+        "nom": "SVT",
+        "note": 11.5,
+        "appreciation": "Travail irrégulier mais quelques progrès sont observés. Arnaud doit maintenir ses efforts pour mieux comprendre les concepts étudiés."
+      },
+      {
+        "nom": "EPS",
+        "note": 13.0,
+        "appreciation": "Participation correcte. Arnaud est un élève qui montre de la bonne volonté mais manque parfois de motivation."
+      },
+      {
+        "nom": "Arts Plastiques",
+        "note": 10.0,
+        "appreciation": "Travail soigné mais manque d'originalité. Arnaud devrait faire preuve de plus de créativité dans ses productions artistiques."
+      }
+    ],
+    "commentaire_general": "Arnaud est un élève qui a un potentiel, mais son manque d'engagement et de régularité nuit à ses résultats. Avec plus de rigueur et de motivation, il pourrait améliorer ses performances. Ses absences et retards perturbent également sa progression. Il est recommandé qu'il participe davantage en classe et adopte une meilleure organisation."
+  }
+}
